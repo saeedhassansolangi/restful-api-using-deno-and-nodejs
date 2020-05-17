@@ -1,4 +1,4 @@
-To run the server use command , this command will download the mongodb plugin for deno
+To run the server use below command , this command will download the mongodb plugin for deno
 > deno run --allow-net --allow-env --allow-write --allow-read --allow-plugin --unstable  app.ts
 
 
